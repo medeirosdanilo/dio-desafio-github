@@ -8,9 +8,9 @@ Repositório criado para o desafio de projeto
 - [x] Aprenda o que são Estruturas de Dados e Algoritimos 
 - [x] Introdução ao Git e GitHub
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Meu Progresso
-- [ ] IDE Instalação e Configuração (Visual Studio)
-- [ ] Introdução ao C# e .NET
-- [ ] Primeiros Passos com .NET
+- [x] IDE Instalação e Configuração (Visual Studio)
+- [x] Introdução ao C# e .NET
+- [x] Primeiros Passos com .NET
 - [ ] Programando com Orientação a Objeto com C#
 - [ ] Construtores, Propriedades Delegates e Eventos em .NET
 - [ ] Criando o Ambiente de Desenvolvimento 
