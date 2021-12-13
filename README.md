@@ -1,4 +1,4 @@
-# Desafio de Projeto de Git e Github da DIO 👨‍💻 🤓
+# Desafio de Projeto de Git e Github da DIO 👨‍💻 �
 Repositório criado para o desafio de projeto
 
 ## Bootcamp Decola Tech 2a edição 🚀
