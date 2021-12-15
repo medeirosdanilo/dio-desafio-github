@@ -11,7 +11,7 @@ Repositório criado para o desafio de projeto
 - [x] IDE Instalação e Configuração (Visual Studio)
 - [x] Introdução ao C# e .NET
 - [x] Primeiros Passos com .NET
-- [ ] Programando com Orientação a Objeto com C#
+- [x] Programando com Orientação a Objeto com C#
 - [ ] Construtores, Propriedades Delegates e Eventos em .NET
 - [ ] Criando o Ambiente de Desenvolvimento 
 - [ ] Fundamentos de Coleções e LINQ com .NET 
