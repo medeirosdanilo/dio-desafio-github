@@ -12,9 +12,9 @@ Repositório criado para o desafio de projeto
 - [x] Introdução ao C# e .NET
 - [x] Primeiros Passos com .NET
 - [x] Programando com Orientação a Objeto com C#
-- [ ] Construtores, Propriedades Delegates e Eventos em .NET
-- [ ] Criando o Ambiente de Desenvolvimento 
-- [ ] Fundamentos de Coleções e LINQ com .NET 
+- [x] Construtores, Propriedades Delegates e Eventos em .NET
+- [x] Criando o Ambiente de Desenvolvimento 
+- [x] Fundamentos de Coleções e LINQ com .NET 
 - [ ] Introdução a Microserviços com .NET
 - [ ] Introdução a Design Patterns com .NET
 - [ ] Programando em C#
