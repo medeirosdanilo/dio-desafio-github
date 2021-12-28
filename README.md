@@ -15,14 +15,14 @@ Repositório criado para o desafio de projeto
 - [x] Construtores, Propriedades Delegates e Eventos em .NET
 - [x] Criando o Ambiente de Desenvolvimento 
 - [x] Fundamentos de Coleções e LINQ com .NET 
-- [ ] Introdução a Microserviços com .NET
-- [ ] Introdução a Design Patterns com .NET
-- [ ] Programando em C#
-- [ ] Criando um APP Simples de Cadastro  de Séries em .NET
-- [ ] SQL SERVER - Criando as Primeiras Consultas
-- [ ] Modelando um Banco de Dados na Prática com SQL SERVER
-- [ ] SQL SERVER - Boas Práticas em Banco Relacionais 
-- [ ] Criando uma API REST Simples com .NET Core
+- [x] Introdução a Microserviços com .NET
+- [x] Introdução a Design Patterns com .NET
+- [x] Programando em C#
+- [x] Criando um APP Simples de Cadastro  de Séries em .NET
+- [x] SQL SERVER - Criando as Primeiras Consultas
+- [x] Modelando um Banco de Dados na Prática com SQL SERVER
+- [x] SQL SERVER - Boas Práticas em Banco Relacionais 
+- [x] Criando uma API REST Simples com .NET Core
 - [ ] Estágio na AVANADE
 
 
