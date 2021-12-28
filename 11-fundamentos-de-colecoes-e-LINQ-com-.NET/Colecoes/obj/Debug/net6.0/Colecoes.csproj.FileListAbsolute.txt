@@ -1,0 +1,15 @@
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\workspace\dio-desafio-github\11-fundamentos-de-colecoes-e-LINQ-com-.NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

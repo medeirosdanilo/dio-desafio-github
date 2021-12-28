@@ -1,0 +1,5 @@
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sport\obj\Debug\net6.0\DIO.Sport.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sport\obj\Debug\net6.0\DIO.Sport.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sport\obj\Debug\net6.0\DIO.Sport.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sport\obj\Debug\net6.0\DIO.Sport.AssemblyInfo.cs
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sport\obj\Debug\net6.0\DIO.Sport.csproj.CoreCompileInputs.cache

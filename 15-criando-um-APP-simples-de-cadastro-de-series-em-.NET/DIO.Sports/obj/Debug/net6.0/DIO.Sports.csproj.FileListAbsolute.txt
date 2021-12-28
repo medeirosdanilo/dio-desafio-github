@@ -1,0 +1,12 @@
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\bin\Debug\net6.0\DIO.Sports.deps.json
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\bin\Debug\net6.0\DIO.Sports.dll
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\bin\Debug\net6.0\ref\DIO.Sports.dll
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\bin\Debug\net6.0\DIO.Sports.pdb
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.csproj.AssemblyReference.cache
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.AssemblyInfoInputs.cache
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.AssemblyInfo.cs
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.csproj.CoreCompileInputs.cache
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.dll
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\ref\DIO.Sports.dll
+C:\workspace\dio-desafio-github\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\DIO.Sports\obj\Debug\net6.0\DIO.Sports.pdb

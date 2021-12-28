@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljCuBV44BUp46eTydoCjEUJIXbP446tyNH89eyIxlLyEqPIoCvRPeWLmsf3K/xTm8ORm+JBKK/4Vsa3sDmuhfw==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\dio-desafio-github\\15-criando-um-APP-simples-de-cadastro-de-series-em-.NET\\DIO.Sports.Web\\DIO.Sports.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dansg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dansg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dansg\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dansg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dansg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dansg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

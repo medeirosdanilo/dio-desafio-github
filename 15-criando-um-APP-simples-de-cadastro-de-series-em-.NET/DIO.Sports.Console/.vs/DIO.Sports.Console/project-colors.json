@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3519b40d-8ca2-4d76-92ce-81484871f38c": {
+      "ProjectGuid": "3519b40d-8ca2-4d76-92ce-81484871f38c",
+      "DisplayName": "DIO.Sports.Console",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "d1e18928-aa04-4a71-9030-05281479c1ef": {
+      "ProjectGuid": "d1e18928-aa04-4a71-9030-05281479c1ef",
+      "DisplayName": "DIO.Sports.Web",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

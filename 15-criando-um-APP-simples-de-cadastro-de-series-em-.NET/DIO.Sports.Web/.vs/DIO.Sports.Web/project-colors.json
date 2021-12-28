@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90d04310-70ec-4341-b82c-46bf9a5e6e4e": {
+      "ProjectGuid": "90d04310-70ec-4341-b82c-46bf9a5e6e4e",
+      "DisplayName": "DIO.Sports.Web",
+      "ColorIndex": 0
+    },
+    "63783d2e-07b9-4551-b702-4914da1bdfa1": {
+      "ProjectGuid": "63783d2e-07b9-4551-b702-4914da1bdfa1",
+      "DisplayName": "DIO.Sports.Web",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

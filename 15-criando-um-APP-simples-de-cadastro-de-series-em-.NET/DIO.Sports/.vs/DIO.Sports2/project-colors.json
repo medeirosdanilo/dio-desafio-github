@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8e627d0-28d2-4ac1-8606-c8586a2ab306": {
+      "ProjectGuid": "f8e627d0-28d2-4ac1-8606-c8586a2ab306",
+      "DisplayName": "DIO.Sports.Console",
+      "ColorIndex": 0
+    },
+    "d0787905-27c6-4487-b986-7f3f4a9777bf": {
+      "ProjectGuid": "d0787905-27c6-4487-b986-7f3f4a9777bf",
+      "DisplayName": "DIO.Sports",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
