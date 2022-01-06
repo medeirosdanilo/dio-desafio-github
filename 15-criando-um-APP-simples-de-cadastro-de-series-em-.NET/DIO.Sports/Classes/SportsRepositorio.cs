@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using DIO.Sports.Interfaces;
 
 namespace DIO.Sports
@@ -34,7 +35,7 @@ namespace DIO.Sports
 
         public Sports RetornaPorId(int id)
         {
-            return listaSports[id];
+            return listaSports.FirstOrDefault(_ => _.Id == id);
         }
     }
 }

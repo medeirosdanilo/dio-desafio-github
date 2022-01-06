@@ -25,7 +25,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Arquivos Diversos",
       "ColorIndex": -1
+    },
+    "66e97040-88ff-45ce-a0eb-2dd99b9aad2f": {
+      "ProjectGuid": "66e97040-88ff-45ce-a0eb-2dd99b9aad2f",
+      "DisplayName": "DIO.Sports.Tests",
+      "ColorIndex": 4
+    },
+    "b021a575-86cd-458d-9156-682f3af724ec": {
+      "ProjectGuid": "b021a575-86cd-458d-9156-682f3af724ec",
+      "DisplayName": "DIO.Sports.Web.Tests",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

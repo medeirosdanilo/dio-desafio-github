@@ -10,7 +10,12 @@
       "ProjectGuid": "63783d2e-07b9-4551-b702-4914da1bdfa1",
       "DisplayName": "DIO.Sports.Web",
       "ColorIndex": 1
+    },
+    "2a814ae5-68e6-4f65-95ab-db83b7817b7d": {
+      "ProjectGuid": "2a814ae5-68e6-4f65-95ab-db83b7817b7d",
+      "DisplayName": "DIO.Sports.Web",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
